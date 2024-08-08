@@ -1,8 +1,5 @@
 # 🎬 Netflix Content Analysis Report 🎬
 
-![image](https://github.com/user-attachments/assets/b63a252f-514d-4dab-b963-b700077fc782)
-
-
 ## 🚀 Project Overview:
 Welcome to the Netflix Content Analysis Report! In this project, I dive deep into the ever-expanding Netflix library to uncover trends, patterns, and insights that shape the streaming giant's content offerings. Whether you're curious about Netflix's regional focus, the directors making waves, or the genres dominating the platform, this report has something for you!
 
